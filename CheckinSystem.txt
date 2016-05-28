@@ -1,0 +1,46 @@
+kINGS cHECKIN SYSTEM
+As an event creator I can send out email to all the groups of invitee
+As an event creator I can send out sms to all the groups of invitee
+
+As a teacher I can login into the checkin-system
+	
+As a volunteer I can login into the checkin system
+As a teacher I can register a new child into the membership system using the checkin system
+As a teacher I can register an adult into the membership system using the checkin system 
+As a teacher I can link a child to an adult to the same household
+As a teacher I can create an event
+	Add a date for an event
+	Add a repeat for an event
+	Add a group to the event - Default is open
+	Add volunteer group to the event - Default is volunteer
+	Add teacher group to the event - Default is teacher group
+	Add Locations to the event - Default is Church location
+	Add stations(devices) to the event
+As a teacher I can duplicate an event
+As a volunteer I can checkin a child to an event
+	As a volunteer I can search for a specific child by firstname and lastname
+	As a volunteer I can search for a collector by firstname and lastname
+	As a volunteer I can bring up the list of all child in a group
+	As a volunteer I can view the list of persons in a household a child belongs to
+	As a volunteer I can select the checkin a child button from the name of a collector
+	As a volunteer I can specify the child associated with a collector that is being checked in
+	As a volunteer I can print a badge for the child
+	As a volunteer I can print a collect card for the collector
+	As a volunteer if connected to the internet I can send the code to a collectors phone via sms or to the app
+As a volunteer I can print a collect code for a child
+As a volunteer I can confirm a collect a collect code
+	As a volunteer I can scan the collect card
+	As a volunteer I can enter the collect code 
+	As a volunteer I can tick the corresponding child as collected from the list of displayed child
+	As a volunteer I can check-out a child
+As a teacher I can view live report of child check-in
+As a teacher I can view report of an event
+As a teacher I can email report to another authorized email
+As a household owner I will receive sms/email alert when a child is picked up
+As a household owner I will receive sms/email alert when a new person is added to my household
+As a user that check-in someone I will receive sms/email alert when another person other than me collects the child
+As a household owner I will edit the settings for receiving sms/email alert
+
+
+As a household owner I will authorize the addition of a collector to my household
+As an event creator I can create an email/sms campaign for an event
