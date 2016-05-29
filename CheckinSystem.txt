@@ -1,4 +1,4 @@
-kINGS cHECKIN SYSTEM
+Kings cHECKIN SYSTEM
 As an event creator I can send out email to all the groups of invitee
 As an event creator I can send out sms to all the groups of invitee
 
